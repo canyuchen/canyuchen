@@ -15,8 +15,4 @@
 
 ### 📫 Get in Touch
 
-I am always happy to chat and discuss potential collaborations, or give talks about my research in related seminars. Feel free to reach out:
-
-- 📧 **Email:** canyuchen [at] u.northwestern.edu
-- 💬 **WeChat:** alexccychen
-- 🔗 **Homepage:** [canyuchen.com](https://canyuchen.com/)
+I am always happy to chat and discuss potential collaborations, or give talks about my research in related seminars. Feel free to reach out: **Email:** canyuchen [at] u.northwestern.edu **WeChat:** alexccychen
