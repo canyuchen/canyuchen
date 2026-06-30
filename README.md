@@ -13,6 +13,4 @@
   <a href="https://www.linkedin.com/in/canyu-chen-1b2415100/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-### 📫 Get in Touch
-
 I am always happy to chat and discuss potential collaborations, or give talks about my research in related seminars. Feel free to reach out: **Email:** canyuchen [at] u.northwestern.edu **WeChat:** alexccychen
